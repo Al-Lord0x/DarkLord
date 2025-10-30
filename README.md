@@ -20,7 +20,7 @@
 ✅ Stealth Operation Mode
 
 🛡 TECHNICAL SPECIFICATIONS:
-• Version: ShellKiller v5.0.0
+• Version: DarkLord v9.2.0
 • Protocol: TCP Reverse Shell
 • Persistence: Multi-vector (7-minute intervals)
 • Stealth: Advanced background operation
